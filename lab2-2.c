@@ -5,6 +5,9 @@ int i;
 int *ptr;
 int **dptr;
 i = 1234;
+
+ printf("[----- [2023041017] [백승헌] -----]\n");
+
 printf("[checking values before ptr = &i] \n");
 printf("value of i == %d\n", i);
 //i의 값을 출력함.

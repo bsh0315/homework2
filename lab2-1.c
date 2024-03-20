@@ -6,6 +6,7 @@ int main()
  float floatType;
  double doubleType;
  
+ printf("[----- [2023041017] [백승헌] -----]\n");
  printf("Size of char: %ld byte\n",sizeof(charType)); 
  //char형식의 변수 charType의 메모리내에서의 크기를 출력한다. 1이 출력된다.
  printf("Size of int: %ld bytes\n",sizeof(integerType)); 
